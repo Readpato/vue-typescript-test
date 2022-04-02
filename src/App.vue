@@ -6,7 +6,7 @@
   >
     <h1 class="text-3xl text-white">Friends Form</h1>
     <form
-      class="flex flex-col space-y-2 border-2 border-yellow-200 p-8 back text-white bg-gradient-to-br from-yellow-300/40 to-orange-300/40"
+      class="flex flex-col space-y-2 border-2 border-yellow-200 p-8 back text-white bg-gradient-to-br from-yellow-300/50 to-orange-300/50"
     >
       <label for="friend-name">Insert friend name</label>
       <input type="text" id="friend-name" class="text-black p-1" />
